@@ -1,7 +1,7 @@
 RESTful-Booker API Testing
 This project contains automated and manual test cases for the RESTful-Booker API. It covers both positive and negative scenarios for thorough API testing.
 
-✅ Features
+Features
 Positive Test Cases:
 Create booking
 Update booking
