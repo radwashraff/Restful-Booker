@@ -1,0 +1,1 @@
+{"uuid":"3a84b8c7-abcd-4a59-be84-f4d8c947cc4e","name":"testcases.valid.PartialUpdateTests","children":["404e3ab0-12f7-49d0-ba4d-cba61f63d6c9"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1765120887544,"stop":1765120887547}],"afters":[],"start":1765120855671,"stop":1765120894991}

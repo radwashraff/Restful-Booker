@@ -1,0 +1,8 @@
+<suite name="API Regression Suite">
+    <test name="All Tests">
+        <packages>
+            <package name="testcases.valid" />
+            <package name="testcases.invalid" />
+        </packages>
+    </test>
+</suite>
